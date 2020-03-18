@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
       <h1>API request</h1>
 
-      <NewsArticleList />
+          <NewsArticleList />
     </div>
   );
 }
